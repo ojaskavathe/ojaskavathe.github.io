@@ -344,9 +344,10 @@ img {
 }
 
 .skills__img {
+  object-fit: cover;
   border-radius: .5rem;
   width: 640px;
-  height: 426px;
+  height: 100%;
 }
 
 /* ===== WORK =====*/
